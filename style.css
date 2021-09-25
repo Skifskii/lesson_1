@@ -33,11 +33,16 @@
 }  
 
 
-#horiz{
+#horiz_menu{
     display: inline-block;
     margin-right: 25px;
 }
 
+
+#horiz_info{
+    display: inline-flex;
+    margin-right: 125px;
+}
 
 
 body {
@@ -46,11 +51,6 @@ body {
     background-color: rgb(36, 36, 36);
 }
 
-h1 {
-    color:rgb(211, 211, 211);
-    background-color: rgb(53, 53, 53);
-    text-align: center;
-}
 
 a[href] {
     font-family: Arial, sans-serif;
@@ -73,6 +73,3 @@ form{
 a{
     font-family: "Gill Sans, sans-serif";
 }
-
-
-
