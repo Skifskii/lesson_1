@@ -1,0 +1,78 @@
+.border {
+    border: 10px solid #cfcfcf;
+}
+
+
+#head{
+    background-color: rgb(53, 53, 53);
+    height: 70px;
+    text-align: center;
+    font-size: 56px;
+}
+
+#nav{
+    background: rgb(75, 75, 75);
+    height: 122px;
+  }
+
+
+#nav ul{
+    list-style-type: none;
+    float: left;
+}
+
+#nav li{
+    display: inline-block;
+}
+
+#nav a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    margin-right: 25px;
+    display: inline-block;
+}  
+
+
+#horiz{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+
+
+body {
+    font-family: Marker Felt, fantasy, Gill Sans, sans-serif, Arial;
+    color:rgb(226, 226, 226);
+    background-color: rgb(36, 36, 36);
+}
+
+h1 {
+    color:rgb(211, 211, 211);
+    background-color: rgb(53, 53, 53);
+    text-align: center;
+}
+
+a[href] {
+    font-family: Arial, sans-serif;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+p{
+    font-family: "Gill Sans, sans-serif";
+}
+
+form{
+    font-family: "Gill Sans, sans-serif";
+}
+
+a{
+    font-family: "Gill Sans, sans-serif";
+}
+
+
+
